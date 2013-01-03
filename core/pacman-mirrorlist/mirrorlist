@@ -18,7 +18,7 @@ Server = http://mirror.archlinuxarm.org/@carch@/$repo
 
 ### France
 ## Roubaix
-# Server = http://fr.mirror.archlinuxarm.org/@carch@/$repo
+Server = http://fr.mirror.archlinuxarm.org/@carch@/$repo
 
 ### Germany
 ## Aachen
